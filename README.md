@@ -6,8 +6,8 @@
 ### Team Name: Falcon
 
 ### Team Members
-- Team Lead:Mathews Vinoy - MBCCET
-- Member 2: Alan Thomas - MBCCET
+- Team Lead:Mathews Vinoy - Mar Baselios Christian college of engineering and technology,Peermade
+- Member 2: Alan Thomas - Mar Baselios Christian college of engineering and technology,Peermade
 
 ### Project Description
 An intentionally frustrating web form that challenges users with unconventional input methods. Features include a hover-based keyboard for name entry, mathematical calculations for phone numbers, and binary bit manipulation for entering dates.
