@@ -57,11 +57,11 @@ git clone https://github.com/MathewsVinoy/The-Unfillable-Form.git
 *The notorious hover keyboard - Move fast or start over!*
 
 ##### Mathematical Phone Entry!
-[Screenshot2](https://github.com/MathewsVinoy/The-Unfillable-Form/blob/main/MathematicalPhoneEntry.png?raw=true)
+![Screenshot2](https://github.com/MathewsVinoy/The-Unfillable-Form/blob/main/MathematicalPhoneEntry.png?raw=true)
 *Phone number entry through mathematical equations - Because typing numbers is too mainstream*
 
 ##### Binary Date Picker
-[Screenshot3](https://github.com/MathewsVinoy/The-Unfillable-Form/blob/main/BinaryDatePicker.png?raw=true)
+![Screenshot3](https://github.com/MathewsVinoy/The-Unfillable-Form/blob/main/BinaryDatePicker.png?raw=true)
 *24-bit date picker: 12 bits for year, 4 for month, 8 for day - Dating made complicated*
 
 #### Diagrams
