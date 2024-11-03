@@ -92,8 +92,8 @@ git clone https://github.com/yourusername/the-unfillable-form
    - Real mathematicians only!
 
 ## Team Contributions
-- Mathews Vinoy: Hover keyboard implementation Binary date picker Mathematical phone number system
-- Alan Thomas: Ui of every page
+- Mathews Vinoy: Hover keyboard implementation Binary date picker
+- Alan Thomas:  Mathematical phone number system
 
 
 ---
