@@ -52,10 +52,12 @@ git clone https://github.com/MathewsVinoy/The-Unfillable-Form.git
 
 #### Screenshots
 
-![Hover Keyboard](Add screenshot of hover keyboard here)
+#####Hover Keyboard
+![Screenshot1](https://github.com/MathewsVinoy/The-Unfillable-Form/blob/main/HoverKeyboard.png?raw=true)
 *The notorious hover keyboard - Move fast or start over!*
 
-![Mathematical Phone Entry](Add screenshot of phone number math interface here)
+#####Mathematical Phone Entry!
+[Screenshot1](https://github.com/MathewsVinoy/The-Unfillable-Form/blob/main/MathematicalPhoneEntry.png?raw=true)
 *Phone number entry through mathematical equations - Because typing numbers is too mainstream*
 
 ![Binary Date Picker](Add screenshot of binary date picker here)
